@@ -1,0 +1,10 @@
+C:\Users\Banlife\source\repos\CountryCapitalApp\CountryCapitalApp\bin\Debug\CountryCapitalApp.exe.config
+C:\Users\Banlife\source\repos\CountryCapitalApp\CountryCapitalApp\bin\Debug\CountryCapitalApp.exe
+C:\Users\Banlife\source\repos\CountryCapitalApp\CountryCapitalApp\bin\Debug\CountryCapitalApp.pdb
+C:\Users\Banlife\source\repos\CountryCapitalApp\CountryCapitalApp\obj\Debug\CountryCapitalApp.csproj.AssemblyReference.cache
+C:\Users\Banlife\source\repos\CountryCapitalApp\CountryCapitalApp\obj\Debug\CountryCapitalApp.Properties.Resources.resources
+C:\Users\Banlife\source\repos\CountryCapitalApp\CountryCapitalApp\obj\Debug\CountryCapitalApp.csproj.GenerateResource.cache
+C:\Users\Banlife\source\repos\CountryCapitalApp\CountryCapitalApp\obj\Debug\CountryCapitalApp.csproj.CoreCompileInputs.cache
+C:\Users\Banlife\source\repos\CountryCapitalApp\CountryCapitalApp\obj\Debug\CountryCapitalApp.exe
+C:\Users\Banlife\source\repos\CountryCapitalApp\CountryCapitalApp\obj\Debug\CountryCapitalApp.pdb
+C:\Users\Banlife\source\repos\CountryCapitalApp\CountryCapitalApp\obj\Debug\CountryCapitalApp.Country.resources

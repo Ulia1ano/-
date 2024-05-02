@@ -1,0 +1,16 @@
+C:\Users\Banlife\source\repos\YL.PracticeThree\YL.PracticeThree\bin\Debug\net8.0-windows\YL.PracticeThree.exe
+C:\Users\Banlife\source\repos\YL.PracticeThree\YL.PracticeThree\bin\Debug\net8.0-windows\YL.PracticeThree.deps.json
+C:\Users\Banlife\source\repos\YL.PracticeThree\YL.PracticeThree\bin\Debug\net8.0-windows\YL.PracticeThree.runtimeconfig.json
+C:\Users\Banlife\source\repos\YL.PracticeThree\YL.PracticeThree\bin\Debug\net8.0-windows\YL.PracticeThree.dll
+C:\Users\Banlife\source\repos\YL.PracticeThree\YL.PracticeThree\bin\Debug\net8.0-windows\YL.PracticeThree.pdb
+C:\Users\Banlife\source\repos\YL.PracticeThree\YL.PracticeThree\obj\Debug\net8.0-windows\YL.PracticeThree.Form1.resources
+C:\Users\Banlife\source\repos\YL.PracticeThree\YL.PracticeThree\obj\Debug\net8.0-windows\YL.PracticeThree.csproj.GenerateResource.cache
+C:\Users\Banlife\source\repos\YL.PracticeThree\YL.PracticeThree\obj\Debug\net8.0-windows\YL.PracticeThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Banlife\source\repos\YL.PracticeThree\YL.PracticeThree\obj\Debug\net8.0-windows\YL.PracticeThree.AssemblyInfoInputs.cache
+C:\Users\Banlife\source\repos\YL.PracticeThree\YL.PracticeThree\obj\Debug\net8.0-windows\YL.PracticeThree.AssemblyInfo.cs
+C:\Users\Banlife\source\repos\YL.PracticeThree\YL.PracticeThree\obj\Debug\net8.0-windows\YL.PracticeThree.csproj.CoreCompileInputs.cache
+C:\Users\Banlife\source\repos\YL.PracticeThree\YL.PracticeThree\obj\Debug\net8.0-windows\YL.PracticeThree.dll
+C:\Users\Banlife\source\repos\YL.PracticeThree\YL.PracticeThree\obj\Debug\net8.0-windows\refint\YL.PracticeThree.dll
+C:\Users\Banlife\source\repos\YL.PracticeThree\YL.PracticeThree\obj\Debug\net8.0-windows\YL.PracticeThree.pdb
+C:\Users\Banlife\source\repos\YL.PracticeThree\YL.PracticeThree\obj\Debug\net8.0-windows\YL.PracticeThree.genruntimeconfig.cache
+C:\Users\Banlife\source\repos\YL.PracticeThree\YL.PracticeThree\obj\Debug\net8.0-windows\ref\YL.PracticeThree.dll
